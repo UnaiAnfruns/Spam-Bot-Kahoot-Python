@@ -1,0 +1,4 @@
+pip3 install selenium
+pip3 install pyautogui
+pip3 install names
+pip3 install os
